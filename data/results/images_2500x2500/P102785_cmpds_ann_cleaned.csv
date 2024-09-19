@@ -1,0 +1,277 @@
+barcode,well-id,moa,cbk-id,batch-id,cmpd-name,SMILES
+P102785,A01,LXR agonist,CBK024768,DO8145313,T 0901317,O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1
+P102785,A03,MAP kinase inhibitor|MEK inhibitor,CBK290225,DO8145315,PD 198306,Cc1cc(I)ccc1Nc1c(C(=O)NOCC2CC2)cc(F)c(F)c1F
+P102785,A04,acetylcholine receptor antagonist,CBK289990,DO8145307,(S)-(+)-Dimethindene maleate,CC(C1=C(CCN(C)C)Cc2ccccc12)c1ccccn1
+P102785,A04,acetylcholine receptor antagonist,CBK289990,DO8145307,(S)-(+)-Dimethindene maleate,C[C@H](C3=NC=CC=C3)C2=C(CCN(C)C)CC1=CC=CC=C12
+P102785,A07,IGF-1 inhibitor,CBK290845,DO8145383,NVP-AEW541,Cc1ccccc1-n1c(Cn2ncc3c(N)ncnc23)nc2cccc(C)c2c1=O
+P102785,A08,phospholipase inhibitor,CBK308283,DO8145333,ML 298 hydrochloride,O=C(NCCN2CCC(C(NCN3C4=CC(F)=CC=C4)=O)3CC2)C1=CC=C(F)C(F)=C1
+P102785,A09,p38 MAPK inhibitor,CBK293873,DO8145376,Skepinone-L,C1CN(CCN1)c1ccc(cc1)-c1cnc2c(cnn2c1)-c1cccc2ncccc12
+P102785,A10,DNA inhibitor|topoisomerase inhibitor,CBK278009,DO8145371,Valrubicin,CCCCC(OCC([C@]1(O)CC2=C(C(O)=C3C(C4=C(C(C3=C2O)=O)C=CC=C4OC)=O)[C@@H](O[C@H]5C[C@H](NC(C(F)(F)F)=O)[C@H](O)[C@H](C)O5)C1)=O)=O
+P102785,A13,CDC inhibitor,CBK308753,DO8145368,KH-CB19,O=C(C(N1C)=C(/C(C#N)=C\N)C2=C1C(Cl)=C(Cl)C=C2)OCC
+P102785,A17,JAK inhibitor,CBK293908,DO8145381,Filgotinib,O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
+P102785,A18,leucine rich repeat kinase inhibitor|RAF inhibitor,CBK041247,DO8145306,GW 5074,OC(C(Br)=C1)=C(Br)C=C1/C=C(C2=CC(I)=CC=C2N3)\C3=O
+P102785,A21,androgen receptor modulator,CBK308702,DO8145339,BMS 564929,N#CC1=CC=C(N(C(N2[C@@]3([H])[C@H](O)CC2)=O)C3=O)C(C)=C1Cl
+P102785,A24,HDAC inhibitor,CBK303885,DO8145345,RGFP 966,Nc1cc(F)ccc1NC(=O)\C=C\c1cnn(C\C=C\c2ccccc2)c1
+P102785,B02,glycogen synthase kinase inhibitor,CBK288309,DO8145325,CHIR 99021,Cc1c[nH]c(n1)-c1cnc(NCCNc2ccc(cn2)C#N)nc1-c1ccc(Cl)cc1Cl
+P102785,B03,protein tyrosine kinase inhibitor,CBK290641,DO8145392,Rheochrysidin,COc1cc(O)c2C(=O)c3c(O)cc(C)cc3C(=O)c2c1
+P102785,B04,bromodomain inhibitor,CBK278077,DO8145326,PFI 1,COc1ccccc1S(=O)(=O)Nc1ccc2NC(=O)N(C)Cc2c1
+P102785,B05,JAK inhibitor,CBK293908,DO8145381,Filgotinib,O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
+P102785,B06,hepatocyte growth factor receptor inhibitor,CBK288271,DO8145340,SGX 523,Cn1cc(cn1)-c1ccc2nnc(Sc3ccc4ncccc4c3)n2n1
+P102785,B08,bromodomain inhibitor,CBK308765,DO8145369,CPI-0610,O=C(N)C[C@@H]1N=C(C2=CC=C(Cl)C=C2)C3=CC=CC=C3C4=C1ON=C4C
+P102785,B09,p21 activated kinase inhibitor,CBK308644,DO8145357,NVS-PAK1-1,FC1=CC2=C(C=C1)N(CC(F)F)C3=C(C=C(Cl)C=C3)C(N[C@H]4CCN(C(NC(C)C)=O)C4)=N2
+P102785,B10,histone lysine methyltransferase inhibitor,CBK301244,DO8145336,A 366,COC1=C(OCCCN4CCCC4)C=C(N=C(N)C32CCC3)C2=C1
+P102785,B12,inosine monophosphate dehydrogenase inhibitor,CBK308830,DO8145372,Merimepodib,O=C(O[C@@H]1COCC1)NCC2=CC=CC(NC(NC3=CC=C(C4=CN=CO4)C(OC)=C3)=O)=C2
+P102785,B14,acetylcholine receptor antagonist,CBK011711,DO8145309,Orphenadrine Citrate,CN(C)CCOC(c1ccccc1)c1ccccc1C
+P102785,B15,FGFR inhibitor,CBK308752,DO8145366,BLU9931,C=CC(NC1=CC=CC(C)=C1NC2=NC=C3C=C(C4=C(Cl)C(OC)=CC(OC)=C4Cl)C=CC3=N2)=O
+P102785,B16,protein tyrosine kinase inhibitor,CBK303958,DO8145356,SHP099 (hydrochloride),NC1=NC(N2CCC(C)(N)CC2)=CN=C1C3=CC=CC(Cl)=C3Cl
+P102785,B17,hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,CBK288272,DO8145389,SU11274,CN(c1cccc(Cl)c1)S(=O)(=O)c1ccc2NC(=O)\C(=C/c3[nH]c(C)c(C(=O)N4CCN(C)CC4)c3C)c2c1
+P102785,B18,JNK inhibitor,CBK290272,DO8145317,BI 78D3,O=C1NN=C(SC3=NC=C([N+]([O-])=O)S3)N1C2=CC=C4C(OCCO4)=C2
+P102785,B19,protein arginine N-methyltransferase inhibitor,CBK303927,DO8145365,EPZ015666,O=C(NC[C@H](O)CN1CCC(C=CC=C2)=C2C1)C3=CC(NC4COC4)=NC=N3
+P102785,B20,pyruvate dehydrogenase kinase inhibitor,CBK290812,DO8145390,BX-912,Brc1cnc(Nc2cccc(NC(=O)N3CCCC3)c2)nc1NCCc1c[nH]cn1
+P102785,B21,histone lysine demethylase inhibitor,CBK308744,DO8145364,ML324,O=C(NCCCN(C)C)C1=CC=C(C2=CC(O)=C3N=CC=CC3=C2)C=C1
+P102785,B22,IGF-1 inhibitor,CBK290845,DO8145383,NVP-AEW541,Cc1ccccc1-n1c(Cn2ncc3c(N)ncnc23)nc2cccc(C)c2c1=O
+P102785,B24,DYRK inhibitor,CBK303892,DO8145338,AZ 191,CN2C=C(C3=CC=NC(NC4=C(OC)C=C(N5CCN(C)CC5)C=C4)=N3)C1=CC=NC=C12
+P102785,C01,p21 activated kinase inhibitor,CBK308644,DO8145357,NVS-PAK1-1,FC1=CC2=C(C=C1)N(CC(F)F)C3=C(C=C(Cl)C=C3)C(N[C@H]4CCN(C(NC(C)C)=O)C4)=N2
+P102785,C03,leucine rich repeat kinase inhibitor|RAF inhibitor,CBK041247,DO8145306,GW 5074,OC(C(Br)=C1)=C(Br)C=C1/C=C(C2=CC(I)=CC=C2N3)\C3=O
+P102785,C04,inosine monophosphate dehydrogenase inhibitor,CBK308830,DO8145372,Merimepodib,O=C(O[C@@H]1COCC1)NCC2=CC=CC(NC(NC3=CC=C(C4=CN=CO4)C(OC)=C3)=O)=C2
+P102785,C05,phosphoinositide dependent kinase inhibitor,CBK309007,DO8145378,APY0201,CC1=CC(/C=N/NC2=NC3=CC(C4=CC=NC=C4)=NN3C(N5CCOCC5)=C2)=CC=C1
+P102785,C06,phospholipase inhibitor,CBK308283,DO8145333,ML 298 hydrochloride,O=C(NCCN2CCC(C(NCN3C4=CC(F)=CC=C4)=O)3CC2)C1=CC=C(F)C(F)=C1
+P102785,C07,p38 MAPK inhibitor,CBK288297,DO8145321,VX 745,Fc1ccc(Sc2ccc3c(-c4c(Cl)cccc4Cl)c(=O)ncn3n2)c(F)c1
+P102785,C09,CDK inhibitor|FLT3 inhibitor,CBK308997,DO8145377,AMG 925,OCC(N1CC2=C(N=C(NC3=NC=C4C(N([C@H]5CC[C@H](C)CC5)C6=CN=CC=C64)=N3)C=C2)CC1)=O
+P102785,C12,smoothened receptor agonist,CBK309443,DO8145330,Purmorphamine,C1CCC(CC1)n1cnc2c(Nc3ccc(cc3)N3CCOCC3)nc(Oc3cccc4ccccc34)nc12
+P102785,C13,BCL inhibitor,CBK290476,DO8145346,ABT 737,CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(cc1[N+]([O-])=O)S(=O)(=O)NC(=O)c1ccc(cc1)N1CCN(Cc2ccccc2-c2ccc(Cl)cc2)CC1
+P102785,C14,LXR agonist,CBK024768,DO8145313,T 0901317,O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1
+P102785,C16,Aurora kinase inhibitor,CBK288349,DO8145370,AMG 900,Cc1csc(c1)-c1nnc(Nc2ccc(Oc3ncccc3-c3ccnc(N)n3)cc2)c2ccccc12
+P102785,C17,JAK inhibitor,CBK277968,DO8145350,Ruxolitinib,N#CC[C@@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+P102785,C17,JAK inhibitor,CBK277968,DO8145350,Ruxolitinib,N#CC[C@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+P102785,C18,MAP kinase inhibitor,CBK290347,DO8145320,FR 180204,NC1=NNC2=C1C=C(C3=C(C=CC=C5)N5N=C3C4=CC=CC=C4)N=N2
+P102785,C19,hypoxia inducible factor inhibitor,CBK278104,DO8145327,IOX 2,OC(=O)CNC(=O)c1c(O)c2ccccc2n(Cc2ccccc2)c1=O
+P102785,C21,bromodomain inhibitor,CBK308765,DO8145369,CPI-0610,O=C(N)C[C@@H]1N=C(C2=CC=C(Cl)C=C2)C3=CC=CC=C3C4=C1ON=C4C
+P102785,C22,AMPK inhibitor,CBK293882,DO8145337,WZ 4003,CCC(=O)Nc1cccc(Oc2nc(Nc3ccc(cc3OC)N3CCN(C)CC3)ncc2Cl)c1
+P102785,C23,protein arginine N-methyltransferase inhibitor,CBK301268,DO8145341,SGC 707,O=C(NCC(=O)N1CCCC1)Nc1ccc2cnccc2c1
+P102785,C24,CHK inhibitor,CBK293853,DO8145393,MK-8776,Cn1cc(cn1)-c1cnn2c(N)c(Br)c(nc12)[C@@H]1CCCNC1
+P102785,D01,glycogen synthase kinase inhibitor|lipoxygenase inhibitor,CBK290269,DO8145316,BIO,O/N=C(C1=CC=CC=C1N2)/C2=C3/C(NC4=C3C=CC(Br)=C4)=O
+P102785,D02,androgen receptor modulator,CBK308702,DO8145339,BMS 564929,N#CC1=CC=C(N(C(N2[C@@]3([H])[C@H](O)CC2)=O)C3=O)C(C)=C1Cl
+P102785,D03,JNK inhibitor,CBK290272,DO8145317,BI 78D3,O=C1NN=C(SC3=NC=C([N+]([O-])=O)S3)N1C2=CC=C4C(OCCO4)=C2
+P102785,D04,Aurora kinase inhibitor,CBK288349,DO8145370,AMG 900,Cc1csc(c1)-c1nnc(Nc2ccc(Oc3ncccc3-c3ccnc(N)n3)cc2)c2ccccc12
+P102785,D05,CDC inhibitor,CBK308753,DO8145368,KH-CB19,O=C(C(N1C)=C(/C(C#N)=C\N)C2=C1C(Cl)=C(Cl)C=C2)OCC
+P102785,D06,Bcr-Abl kinase inhibitor|FLT3 inhibitor|PDGFR tyrosine kinase receptor inhibitor,CBK277946,DO8145391,Ponatinib,CN1CCN(Cc2ccc(NC(=O)c3ccc(C)c(c3)C#Cc3cnc4cccnn34)cc2C(F)(F)F)CC1
+P102785,D07,phosphoinositide dependent kinase inhibitor,CBK293865,DO8145322,GSK 2334470,C[C@H]1N(C3=NC(NC)=NC(C4=CC(NN=C5N)=C5C=C4)=C3)C[C@@H]([C@](NC2CCCCC2)=O)CC1
+P102785,D08,ubiquitin specific protease inhibitor,CBK220243,DO8145332,P005091,CC(=O)c1cc(c(Sc2cccc(Cl)c2Cl)s1)[N+]([O-])=O
+P102785,D09,antihistamine,CBK201094,DO8145308,Hydroxyzine Pamoate,OCCOCCN1CCN(CC1)C(c1ccccc1)c1ccc(Cl)cc1
+P102785,D11,MAP kinase inhibitor,CBK290347,DO8145320,FR 180204,NC1=NNC2=C1C=C(C3=C(C=CC=C5)N5N=C3C4=CC=CC=C4)N=N2
+P102785,D12,LXR agonist,CBK050377,DO8145314,GW 3965 hydrochloride,O=C(O)Cc1cccc(OCCCN(Cc2cccc(C(F)(F)F)c2Cl)CC(c2ccccc2)c2ccccc2)c1
+P102785,D13,mTOR inhibitor,CBK041801,DO8145358,Rapamycin,O=C([C@@]1(O)[C@@H](CC[C@@H](C[C@@H](/C(C)=C/C=C/C=C/[C@H](C[C@@H](C)C([C@@H]([C@@H](/C(C)=C/[C@H]2C)O)OC)=O)C)OC)O1)C)C(N3CCCC[C@H]3C(O[C@@H](CC2=O)[C@@H](C[C@H]4C[C@H]([C@H](O)CC4)OC)C)=O)=O
+P102785,D14,ubiquitin specific protease inhibitor,CBK303906,DO8145380,ML-323,CC1=CN=C(C2=C(C(C)C)C=CC=C2)N=C1NCC3=CC=C(N4N=NC=C4)C=C3
+P102785,D15,p38 MAPK inhibitor,CBK288297,DO8145321,VX 745,Fc1ccc(Sc2ccc3c(-c4c(Cl)cccc4Cl)c(=O)ncn3n2)c(F)c1
+P102785,D16,hypoxia inducible factor inhibitor,CBK278104,DO8145327,IOX 2,OC(=O)CNC(=O)c1c(O)c2ccccc2n(Cc2ccccc2)c1=O
+P102785,D17,CDC inhibitor,CBK303976,DO8145375,XL413 (hydrochloride),ClC1=CC=C2C(C(N=C([C@@H]3CCCN3)NC4=O)=C4O2)=C1
+P102785,D18,bromodomain inhibitor,CBK278077,DO8145326,PFI 1,COc1ccccc1S(=O)(=O)Nc1ccc2NC(=O)N(C)Cc2c1
+P102785,D19,CDK inhibitor,CBK309185,DO8145385,THZ1,ClC1=CN=C(NC2=CC(NC(C3=CC=C(NC(/C=C/CN(C)C)=O)C=C3)=O)=CC=C2)N=C1C4=CNC5=CC=CC=C54
+P102785,D20,norepinephrine reuptake inhibitor|serotonin–norepinephrine reuptake inhibitor (SNRI)|tricyclic antidepressant,CBK200712,DO8145386,Dosulepin hydrochloride,CN(C)CC\C=C1/c2ccccc2CSc2ccccc12
+P102785,D21,CHK inhibitor,CBK293853,DO8145393,MK-8776,Cn1cc(cn1)-c1cnn2c(N)c(Br)c(nc12)[C@@H]1CCCNC1
+P102785,D22,CHK inhibitor,CBK277953,DO8145323,PF 477736,O=C([C@H](N)C4CCCCC4)NC1=CC3=C(C(C=NNC3=O)=C(C5=CN(C)N=C5)N2)C2=C1
+P102785,D24,histone lysine methyltransferase inhibitor,CBK301269,DO8145335,UNC 0642,CC(N1CCC(NC2=C3C=C(OC)C(OCCCN4CCCC4)=CC3=NC(N5CCC(F)(F)CC5)=N2)CC1)C
+P102785,E02,HDAC inhibitor,CBK303885,DO8145345,RGFP 966,Nc1cc(F)ccc1NC(=O)\C=C\c1cnn(C\C=C\c2ccccc2)c1
+P102785,E03,kinesin inhibitor,CBK290553,DO8145342,Ispinesib,CC(C)[C@@H](N(CCCN)C(=O)c1ccc(C)cc1)c1nc2cc(Cl)ccc2c(=O)n1Cc1ccccc1
+P102785,E04,FGFR inhibitor,CBK308752,DO8145366,BLU9931,C=CC(NC1=CC=CC(C)=C1NC2=NC=C3C=C(C4=C(Cl)C(OC)=CC(OC)=C4Cl)C=CC3=N2)=O
+P102785,E05,protein arginine N-methyltransferase inhibitor,CBK303927,DO8145365,EPZ015666,O=C(NC[C@H](O)CN1CCC(C=CC=C2)=C2C1)C3=CC(NC4COC4)=NC=N3
+P102785,E08,beta-catenin inhibitor,CBK007461,DO8145318,PNU 74654,O=C(N/N=C/C2=CC=C(C)O2)C1=C(OC3=CC=CC=C3)C=CC=C1
+P102785,E09,HMGCR inhibitor,CBK309344,DO8145362,delta-Tocotrienol,CC(C)=CCC\C(C)=C\CC\C(C)=C\CC[C@]1(C)CCc2cc(O)cc(C)c2O1
+P102785,E11,CDC inhibitor,CBK303976,DO8145375,XL413 (hydrochloride),ClC1=CC=C2C(C(N=C([C@@H]3CCCN3)NC4=O)=C4O2)=C1
+P102785,E12,CDK inhibitor,CBK309185,DO8145385,THZ1,ClC1=CN=C(NC2=CC(NC(C3=CC=C(NC(/C=C/CN(C)C)=O)C=C3)=O)=CC=C2)N=C1C4=CNC5=CC=CC=C54
+P102785,E15,RAF inhibitor,CBK288298,DO8145328,GDC 0879,OCCN1N=C(C3=CC=NC=C3)C(C2=CC=C(/C(CC4)=N/O)C4=C2)=C1
+P102785,E20,MAP kinase inhibitor|MEK inhibitor,CBK290225,DO8145315,PD 198306,Cc1cc(I)ccc1Nc1c(C(=O)NOCC2CC2)cc(F)c(F)c1F
+P102785,E21,hepatocyte growth factor receptor inhibitor,CBK288271,DO8145340,SGX 523,Cn1cc(cn1)-c1ccc2nnc(Sc3ccc4ncccc4c3)n2n1
+P102785,E22,histone lysine demethylase inhibitor,CBK308744,DO8145364,ML324,O=C(NCCCN(C)C)C1=CC=C(C2=CC(O)=C3N=CC=CC3=C2)C=C1
+P102785,E24,protein tyrosine kinase inhibitor,CBK290641,DO8145392,Rheochrysidin,COc1cc(O)c2C(=O)c3c(O)cc(C)cc3C(=O)c2c1
+P102785,F01,histone lysine methyltransferase inhibitor,CBK301269,DO8145335,UNC 0642,CC(N1CCC(NC2=C3C=C(OC)C(OCCCN4CCCC4)=CC3=NC(N5CCC(F)(F)CC5)=N2)CC1)C
+P102785,F02,EGFR inhibitor,CBK278038,DO8145382,Neratinib,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C
+P102785,F04,JNK inhibitor,CBK290309,DO8145319,SU 3327,NC2=NN=C(S2)SC1=NC=C([N+]([O-])=O)S1
+P102785,F05,angiogenesis inhibitor|tumor necrosis factor production inhibitor,CBK290587,DO8145359,Pomalidomide,Nc1cccc2C(=O)N(C3CCC(=O)NC3=O)C(=O)c12
+P102785,F07,glycogen synthase kinase inhibitor|lipoxygenase inhibitor,CBK290269,DO8145316,BIO,O/N=C(C1=CC=CC=C1N2)/C2=C3/C(NC4=C3C=CC(Br)=C4)=O
+P102785,F08,RAF inhibitor,CBK288298,DO8145328,GDC 0879,OCCN1N=C(C3=CC=NC=C3)C(C2=CC=C(/C(CC4)=N/O)C4=C2)=C1
+P102785,F09,kinesin inhibitor,CBK290553,DO8145342,Ispinesib,CC(C)[C@@H](N(CCCN)C(=O)c1ccc(C)cc1)c1nc2cc(Cl)ccc2c(=O)n1Cc1ccccc1
+P102785,F10,mTOR inhibitor,CBK278090,DO8145374,Vistusertib,CNC(=O)c1cccc(c1)-c1ccc2c(nc(nc2n1)N1CCOC[C@@H]1C)N1CCOC[C@@H]1C
+P102785,F11,inosine monophosphate dehydrogenase inhibitor,CBK308421,DO8145344,BMS 566419,CCN1CCN(c2ccc(C(C)(C)NC(=O)c3cc4[nH]c5ccccc5c(=O)c4cc3F)cn2)CC1
+P102785,F12,Aurora kinase inhibitor,CBK290772,DO8145394,MK-5108,OC(=O)[C@@]1(Cc2cccc(Nc3nccs3)n2)CC[C@@H](CC1)Oc1cccc(Cl)c1F
+P102785,F15,histone lysine demethylase inhibitor,CBK278105,DO8145331,GSK J4,CCOC(=O)CCNc1cc(nc(n1)-c1ccccn1)N1CCc2ccccc2CC1
+P102785,F16,phosphoinositide dependent kinase inhibitor,CBK309007,DO8145378,APY0201,CC1=CC(/C=N/NC2=NC3=CC(C4=CC=NC=C4)=NN3C(N5CCOCC5)=C2)=CC=C1
+P102785,F17,DNA inhibitor|topoisomerase inhibitor,CBK278009,DO8145371,Valrubicin,CCCCC(OCC([C@]1(O)CC2=C(C(O)=C3C(C4=C(C(C3=C2O)=O)C=CC=C4OC)=O)[C@@H](O[C@H]5C[C@H](NC(C(F)(F)F)=O)[C@H](O)[C@H](C)O5)C1)=O)=O
+P102785,F19,smoothened receptor agonist,CBK309443,DO8145330,Purmorphamine,C1CCC(CC1)n1cnc2c(Nc3ccc(cc3)N3CCOCC3)nc(Oc3cccc4ccccc34)nc12
+P102785,F20,HMGCR inhibitor,CBK309344,DO8145362,delta-Tocotrienol,CC(C)=CCC\C(C)=C\CC\C(C)=C\CC[C@]1(C)CCc2cc(O)cc(C)c2O1
+P102785,F21,androgen receptor modulator,CBK290489,DO8145360,GTx-007,CC(=O)Nc1ccc(OC[C@](C)(O)C(=O)Nc2ccc(c(c2)C(F)(F)F)[N+]([O-])=O)cc1
+P102785,F23,ubiquitin specific protease inhibitor,CBK220243,DO8145332,P005091,CC(=O)c1cc(c(Sc2cccc(Cl)c2Cl)s1)[N+]([O-])=O
+P102785,F24,Bcr-Abl kinase inhibitor,CBK293888,DO8145334,GNF 5,O=C(NCCO)C1=CC(C2=NC=NC(NC3=CC=C(OC(F)(F)F)C=C3)=C2)=CC=C1
+P102785,G01,androgen receptor modulator,CBK290489,DO8145360,GTx-007,CC(=O)Nc1ccc(OC[C@](C)(O)C(=O)Nc2ccc(c(c2)C(F)(F)F)[N+]([O-])=O)cc1
+P102785,G03,glycogen synthase kinase inhibitor,CBK288309,DO8145325,CHIR 99021,Cc1c[nH]c(n1)-c1cnc(NCCNc2ccc(cn2)C#N)nc1-c1ccc(Cl)cc1Cl
+P102785,G04,phosphoinositide dependent kinase inhibitor,CBK293865,DO8145322,GSK 2334470,C[C@H]1N(C3=NC(NC)=NC(C4=CC(NN=C5N)=C5C=C4)=C3)C[C@@H]([C@](NC2CCCCC2)=O)CC1
+P102785,G05,norepinephrine reuptake inhibitor|serotonin–norepinephrine reuptake inhibitor (SNRI)|tricyclic antidepressant,CBK200712,DO8145386,Dosulepin hydrochloride,CN(C)CC\C=C1/c2ccccc2CSc2ccccc12
+P102785,G06,mTOR inhibitor,CBK041801,DO8145358,Rapamycin,O=C([C@@]1(O)[C@@H](CC[C@@H](C[C@@H](/C(C)=C/C=C/C=C/[C@H](C[C@@H](C)C([C@@H]([C@@H](/C(C)=C/[C@H]2C)O)OC)=O)C)OC)O1)C)C(N3CCCC[C@H]3C(O[C@@H](CC2=O)[C@@H](C[C@H]4C[C@H]([C@H](O)CC4)OC)C)=O)=O
+P102785,G08,mTOR inhibitor,CBK278090,DO8145374,Vistusertib,CNC(=O)c1cccc(c1)-c1ccc2c(nc(nc2n1)N1CCOC[C@@H]1C)N1CCOC[C@@H]1C
+P102785,G10,pyruvate dehydrogenase kinase inhibitor,CBK290812,DO8145390,BX-912,Brc1cnc(Nc2cccc(NC(=O)N3CCCC3)c2)nc1NCCc1c[nH]cn1
+P102785,G12,acetylcholine receptor antagonist,CBK289990,DO8145307,(S)-(+)-Dimethindene maleate,CC(C1=C(CCN(C)C)Cc2ccccc12)c1ccccn1
+P102785,G12,acetylcholine receptor antagonist,CBK289990,DO8145307,(S)-(+)-Dimethindene maleate,C[C@H](C3=NC=CC=C3)C2=C(CCN(C)C)CC1=CC=CC=C12
+P102785,G13,JAK inhibitor,CBK277968,DO8145350,Ruxolitinib,N#CC[C@@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+P102785,G13,JAK inhibitor,CBK277968,DO8145350,Ruxolitinib,N#CC[C@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+P102785,G14,JNK inhibitor,CBK290309,DO8145319,SU 3327,NC2=NN=C(S2)SC1=NC=C([N+]([O-])=O)S1
+P102785,G16,DYRK inhibitor,CBK303892,DO8145338,AZ 191,CN2C=C(C3=CC=NC(NC4=C(OC)C=C(N5CCN(C)CC5)C=C4)=N3)C1=CC=NC=C12
+P102785,G18,hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,CBK288272,DO8145389,SU11274,CN(c1cccc(Cl)c1)S(=O)(=O)c1ccc2NC(=O)\C(=C/c3[nH]c(C)c(C(=O)N4CCN(C)CC4)c3C)c2c1
+P102785,G20,CHK inhibitor,CBK277953,DO8145323,PF 477736,O=C([C@H](N)C4CCCCC4)NC1=CC3=C(C(C=NNC3=O)=C(C5=CN(C)N=C5)N2)C2=C1
+P102785,G21,LXR agonist,CBK050377,DO8145314,GW 3965 hydrochloride,O=C(O)Cc1cccc(OCCCN(Cc2cccc(C(F)(F)F)c2Cl)CC(c2ccccc2)c2ccccc2)c1
+P102785,G23,ubiquitin specific protease inhibitor,CBK303906,DO8145380,ML-323,CC1=CN=C(C2=C(C(C)C)C=CC=C2)N=C1NCC3=CC=C(N4N=NC=C4)C=C3
+P102785,G24,Aurora kinase inhibitor,CBK290772,DO8145394,MK-5108,OC(=O)[C@@]1(Cc2cccc(Nc3nccs3)n2)CC[C@@H](CC1)Oc1cccc(Cl)c1F
+P102785,H01,histone lysine methyltransferase inhibitor,CBK301244,DO8145336,A 366,COC1=C(OCCCN4CCCC4)C=C(N=C(N)C32CCC3)C2=C1
+P102785,H02,beta-catenin inhibitor,CBK007461,DO8145318,PNU 74654,O=C(N/N=C/C2=CC=C(C)O2)C1=C(OC3=CC=CC=C3)C=CC=C1
+P102785,H03,AMPK inhibitor,CBK293882,DO8145337,WZ 4003,CCC(=O)Nc1cccc(Oc2nc(Nc3ccc(cc3OC)N3CCN(C)CC3)ncc2Cl)c1
+P102785,H04,histone lysine demethylase inhibitor,CBK278105,DO8145331,GSK J4,CCOC(=O)CCNc1cc(nc(n1)-c1ccccn1)N1CCc2ccccc2CC1
+P102785,H05,protein tyrosine kinase inhibitor,CBK303958,DO8145356,SHP099 (hydrochloride),NC1=NC(N2CCC(C)(N)CC2)=CN=C1C3=CC=CC(Cl)=C3Cl
+P102785,H06,acetylcholine receptor antagonist,CBK011711,DO8145309,Orphenadrine Citrate,CN(C)CCOC(c1ccccc1)c1ccccc1C
+P102785,H07,CDK inhibitor|FLT3 inhibitor,CBK308997,DO8145377,AMG 925,OCC(N1CC2=C(N=C(NC3=NC=C4C(N([C@H]5CC[C@H](C)CC5)C6=CN=CC=C64)=N3)C=C2)CC1)=O
+P102785,H10,protein arginine N-methyltransferase inhibitor,CBK301268,DO8145341,SGC 707,O=C(NCC(=O)N1CCCC1)Nc1ccc2cnccc2c1
+P102785,H11,BCL inhibitor,CBK290476,DO8145346,ABT 737,CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(cc1[N+]([O-])=O)S(=O)(=O)NC(=O)c1ccc(cc1)N1CCN(Cc2ccccc2-c2ccc(Cl)cc2)CC1
+P102785,H13,antihistamine,CBK201094,DO8145308,Hydroxyzine Pamoate,OCCOCCN1CCN(CC1)C(c1ccccc1)c1ccc(Cl)cc1
+P102785,H14,p38 MAPK inhibitor,CBK293873,DO8145376,Skepinone-L,C1CN(CCN1)c1ccc(cc1)-c1cnc2c(cnn2c1)-c1cccc2ncccc12
+P102785,H15,EGFR inhibitor,CBK278038,DO8145382,Neratinib,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C
+P102785,H19,Bcr-Abl kinase inhibitor,CBK293888,DO8145334,GNF 5,O=C(NCCO)C1=CC(C2=NC=NC(NC3=CC=C(OC(F)(F)F)C=C3)=C2)=CC=C1
+P102785,H22,Bcr-Abl kinase inhibitor|FLT3 inhibitor|PDGFR tyrosine kinase receptor inhibitor,CBK277946,DO8145391,Ponatinib,CN1CCN(Cc2ccc(NC(=O)c3ccc(C)c(c3)C#Cc3cnc4cccnn34)cc2C(F)(F)F)CC1
+P102785,H23,angiogenesis inhibitor|tumor necrosis factor production inhibitor,CBK290587,DO8145359,Pomalidomide,Nc1cccc2C(=O)N(C3CCC(=O)NC3=O)C(=O)c12
+P102785,H24,inosine monophosphate dehydrogenase inhibitor,CBK308421,DO8145344,BMS 566419,CCN1CCN(c2ccc(C(C)(C)NC(=O)c3cc4[nH]c5ccccc5c(=O)c4cc3F)cn2)CC1
+P102785,I01,norepinephrine reuptake inhibitor|serotonin–norepinephrine reuptake inhibitor (SNRI)|tricyclic antidepressant,CBK200712,DO8145386,Dosulepin hydrochloride,CN(C)CC\C=C1/c2ccccc2CSc2ccccc12
+P102785,I02,FGFR inhibitor,CBK308752,DO8145366,BLU9931,C=CC(NC1=CC=CC(C)=C1NC2=NC=C3C=C(C4=C(Cl)C(OC)=CC(OC)=C4Cl)C=CC3=N2)=O
+P102785,I03,acetylcholine receptor antagonist,CBK011711,DO8145309,Orphenadrine Citrate,CN(C)CCOC(c1ccccc1)c1ccccc1C
+P102785,I05,bromodomain inhibitor,CBK308765,DO8145369,CPI-0610,O=C(N)C[C@@H]1N=C(C2=CC=C(Cl)C=C2)C3=CC=CC=C3C4=C1ON=C4C
+P102785,I06,CDK inhibitor,CBK309185,DO8145385,THZ1,ClC1=CN=C(NC2=CC(NC(C3=CC=C(NC(/C=C/CN(C)C)=O)C=C3)=O)=CC=C2)N=C1C4=CNC5=CC=CC=C54
+P102785,I09,IGF-1 inhibitor,CBK290845,DO8145383,NVP-AEW541,Cc1ccccc1-n1c(Cn2ncc3c(N)ncnc23)nc2cccc(C)c2c1=O
+P102785,I10,phosphoinositide dependent kinase inhibitor,CBK309007,DO8145378,APY0201,CC1=CC(/C=N/NC2=NC3=CC(C4=CC=NC=C4)=NN3C(N5CCOCC5)=C2)=CC=C1
+P102785,I11,Aurora kinase inhibitor,CBK288349,DO8145370,AMG 900,Cc1csc(c1)-c1nnc(Nc2ccc(Oc3ncccc3-c3ccnc(N)n3)cc2)c2ccccc12
+P102785,I13,JNK inhibitor,CBK290272,DO8145317,BI 78D3,O=C1NN=C(SC3=NC=C([N+]([O-])=O)S3)N1C2=CC=C4C(OCCO4)=C2
+P102785,I14,leucine rich repeat kinase inhibitor|RAF inhibitor,CBK041247,DO8145306,GW 5074,OC(C(Br)=C1)=C(Br)C=C1/C=C(C2=CC(I)=CC=C2N3)\C3=O
+P102785,I15,protein arginine N-methyltransferase inhibitor,CBK303927,DO8145365,EPZ015666,O=C(NC[C@H](O)CN1CCC(C=CC=C2)=C2C1)C3=CC(NC4COC4)=NC=N3
+P102785,I16,ubiquitin specific protease inhibitor,CBK220243,DO8145332,P005091,CC(=O)c1cc(c(Sc2cccc(Cl)c2Cl)s1)[N+]([O-])=O
+P102785,I18,protein tyrosine kinase inhibitor,CBK290641,DO8145392,Rheochrysidin,COc1cc(O)c2C(=O)c3c(O)cc(C)cc3C(=O)c2c1
+P102785,I19,inosine monophosphate dehydrogenase inhibitor,CBK308421,DO8145344,BMS 566419,CCN1CCN(c2ccc(C(C)(C)NC(=O)c3cc4[nH]c5ccccc5c(=O)c4cc3F)cn2)CC1
+P102785,I20,phospholipase inhibitor,CBK308283,DO8145333,ML 298 hydrochloride,O=C(NCCN2CCC(C(NCN3C4=CC(F)=CC=C4)=O)3CC2)C1=CC=C(F)C(F)=C1
+P102785,I21,histone lysine methyltransferase inhibitor,CBK301244,DO8145336,A 366,COC1=C(OCCCN4CCCC4)C=C(N=C(N)C32CCC3)C2=C1
+P102785,I22,glycogen synthase kinase inhibitor|lipoxygenase inhibitor,CBK290269,DO8145316,BIO,O/N=C(C1=CC=CC=C1N2)/C2=C3/C(NC4=C3C=CC(Br)=C4)=O
+P102785,I24,kinesin inhibitor,CBK290553,DO8145342,Ispinesib,CC(C)[C@@H](N(CCCN)C(=O)c1ccc(C)cc1)c1nc2cc(Cl)ccc2c(=O)n1Cc1ccccc1
+P102785,J01,JAK inhibitor,CBK277968,DO8145350,Ruxolitinib,N#CC[C@@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+P102785,J01,JAK inhibitor,CBK277968,DO8145350,Ruxolitinib,N#CC[C@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+P102785,J02,protein tyrosine kinase inhibitor,CBK290641,DO8145392,Rheochrysidin,COc1cc(O)c2C(=O)c3c(O)cc(C)cc3C(=O)c2c1
+P102785,J05,hepatocyte growth factor receptor inhibitor,CBK288271,DO8145340,SGX 523,Cn1cc(cn1)-c1ccc2nnc(Sc3ccc4ncccc4c3)n2n1
+P102785,J06,p38 MAPK inhibitor,CBK293873,DO8145376,Skepinone-L,C1CN(CCN1)c1ccc(cc1)-c1cnc2c(cnn2c1)-c1cccc2ncccc12
+P102785,J07,JNK inhibitor,CBK290272,DO8145317,BI 78D3,O=C1NN=C(SC3=NC=C([N+]([O-])=O)S3)N1C2=CC=C4C(OCCO4)=C2
+P102785,J10,Aurora kinase inhibitor,CBK290772,DO8145394,MK-5108,OC(=O)[C@@]1(Cc2cccc(Nc3nccs3)n2)CC[C@@H](CC1)Oc1cccc(Cl)c1F
+P102785,J11,smoothened receptor agonist,CBK309443,DO8145330,Purmorphamine,C1CCC(CC1)n1cnc2c(Nc3ccc(cc3)N3CCOCC3)nc(Oc3cccc4ccccc34)nc12
+P102785,J13,CDK inhibitor,CBK309185,DO8145385,THZ1,ClC1=CN=C(NC2=CC(NC(C3=CC=C(NC(/C=C/CN(C)C)=O)C=C3)=O)=CC=C2)N=C1C4=CNC5=CC=CC=C54
+P102785,J14,pyruvate dehydrogenase kinase inhibitor,CBK290812,DO8145390,BX-912,Brc1cnc(Nc2cccc(NC(=O)N3CCCC3)c2)nc1NCCc1c[nH]cn1
+P102785,J15,glycogen synthase kinase inhibitor,CBK288309,DO8145325,CHIR 99021,Cc1c[nH]c(n1)-c1cnc(NCCNc2ccc(cn2)C#N)nc1-c1ccc(Cl)cc1Cl
+P102785,J16,HMGCR inhibitor,CBK309344,DO8145362,delta-Tocotrienol,CC(C)=CCC\C(C)=C\CC\C(C)=C\CC[C@]1(C)CCc2cc(O)cc(C)c2O1
+P102785,J19,inosine monophosphate dehydrogenase inhibitor,CBK308830,DO8145372,Merimepodib,O=C(O[C@@H]1COCC1)NCC2=CC=CC(NC(NC3=CC=C(C4=CN=CO4)C(OC)=C3)=O)=C2
+P102785,J20,antihistamine,CBK201094,DO8145308,Hydroxyzine Pamoate,OCCOCCN1CCN(CC1)C(c1ccccc1)c1ccc(Cl)cc1
+P102785,J21,CDK inhibitor|FLT3 inhibitor,CBK308997,DO8145377,AMG 925,OCC(N1CC2=C(N=C(NC3=NC=C4C(N([C@H]5CC[C@H](C)CC5)C6=CN=CC=C64)=N3)C=C2)CC1)=O
+P102785,J23,MAP kinase inhibitor,CBK290347,DO8145320,FR 180204,NC1=NNC2=C1C=C(C3=C(C=CC=C5)N5N=C3C4=CC=CC=C4)N=N2
+P102785,K02,CHK inhibitor,CBK277953,DO8145323,PF 477736,O=C([C@H](N)C4CCCCC4)NC1=CC3=C(C(C=NNC3=O)=C(C5=CN(C)N=C5)N2)C2=C1
+P102785,K05,p38 MAPK inhibitor,CBK288297,DO8145321,VX 745,Fc1ccc(Sc2ccc3c(-c4c(Cl)cccc4Cl)c(=O)ncn3n2)c(F)c1
+P102785,K06,angiogenesis inhibitor|tumor necrosis factor production inhibitor,CBK290587,DO8145359,Pomalidomide,Nc1cccc2C(=O)N(C3CCC(=O)NC3=O)C(=O)c12
+P102785,K07,LXR agonist,CBK050377,DO8145314,GW 3965 hydrochloride,O=C(O)Cc1cccc(OCCCN(Cc2cccc(C(F)(F)F)c2Cl)CC(c2ccccc2)c2ccccc2)c1
+P102785,K08,Bcr-Abl kinase inhibitor,CBK293888,DO8145334,GNF 5,O=C(NCCO)C1=CC(C2=NC=NC(NC3=CC=C(OC(F)(F)F)C=C3)=C2)=CC=C1
+P102785,K09,JAK inhibitor,CBK277968,DO8145350,Ruxolitinib,N#CC[C@@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+P102785,K09,JAK inhibitor,CBK277968,DO8145350,Ruxolitinib,N#CC[C@H](C1CCCC1)n1cc(cn1)-c1ncnc2[nH]ccc12
+P102785,K10,bromodomain inhibitor,CBK278077,DO8145326,PFI 1,COc1ccccc1S(=O)(=O)Nc1ccc2NC(=O)N(C)Cc2c1
+P102785,K11,JAK inhibitor,CBK293908,DO8145381,Filgotinib,O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
+P102785,K12,leucine rich repeat kinase inhibitor|RAF inhibitor,CBK041247,DO8145306,GW 5074,OC(C(Br)=C1)=C(Br)C=C1/C=C(C2=CC(I)=CC=C2N3)\C3=O
+P102785,K13,inosine monophosphate dehydrogenase inhibitor,CBK308830,DO8145372,Merimepodib,O=C(O[C@@H]1COCC1)NCC2=CC=CC(NC(NC3=CC=C(C4=CN=CO4)C(OC)=C3)=O)=C2
+P102785,K14,phosphoinositide dependent kinase inhibitor,CBK293865,DO8145322,GSK 2334470,C[C@H]1N(C3=NC(NC)=NC(C4=CC(NN=C5N)=C5C=C4)=C3)C[C@@H]([C@](NC2CCCCC2)=O)CC1
+P102785,K15,p38 MAPK inhibitor,CBK293873,DO8145376,Skepinone-L,C1CN(CCN1)c1ccc(cc1)-c1cnc2c(cnn2c1)-c1cccc2ncccc12
+P102785,K16,mTOR inhibitor,CBK278090,DO8145374,Vistusertib,CNC(=O)c1cccc(c1)-c1ccc2c(nc(nc2n1)N1CCOC[C@@H]1C)N1CCOC[C@@H]1C
+P102785,K18,androgen receptor modulator,CBK290489,DO8145360,GTx-007,CC(=O)Nc1ccc(OC[C@](C)(O)C(=O)Nc2ccc(c(c2)C(F)(F)F)[N+]([O-])=O)cc1
+P102785,K19,glycogen synthase kinase inhibitor,CBK288309,DO8145325,CHIR 99021,Cc1c[nH]c(n1)-c1cnc(NCCNc2ccc(cn2)C#N)nc1-c1ccc(Cl)cc1Cl
+P102785,K20,EGFR inhibitor,CBK278038,DO8145382,Neratinib,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C
+P102785,K21,Bcr-Abl kinase inhibitor|FLT3 inhibitor|PDGFR tyrosine kinase receptor inhibitor,CBK277946,DO8145391,Ponatinib,CN1CCN(Cc2ccc(NC(=O)c3ccc(C)c(c3)C#Cc3cnc4cccnn34)cc2C(F)(F)F)CC1
+P102785,K22,protein arginine N-methyltransferase inhibitor,CBK301268,DO8145341,SGC 707,O=C(NCC(=O)N1CCCC1)Nc1ccc2cnccc2c1
+P102785,K23,Aurora kinase inhibitor,CBK290772,DO8145394,MK-5108,OC(=O)[C@@]1(Cc2cccc(Nc3nccs3)n2)CC[C@@H](CC1)Oc1cccc(Cl)c1F
+P102785,L01,protein tyrosine kinase inhibitor,CBK303958,DO8145356,SHP099 (hydrochloride),NC1=NC(N2CCC(C)(N)CC2)=CN=C1C3=CC=CC(Cl)=C3Cl
+P102785,L02,MAP kinase inhibitor|MEK inhibitor,CBK290225,DO8145315,PD 198306,Cc1cc(I)ccc1Nc1c(C(=O)NOCC2CC2)cc(F)c(F)c1F
+P102785,L07,Bcr-Abl kinase inhibitor|FLT3 inhibitor|PDGFR tyrosine kinase receptor inhibitor,CBK277946,DO8145391,Ponatinib,CN1CCN(Cc2ccc(NC(=O)c3ccc(C)c(c3)C#Cc3cnc4cccnn34)cc2C(F)(F)F)CC1
+P102785,L09,HDAC inhibitor,CBK303885,DO8145345,RGFP 966,Nc1cc(F)ccc1NC(=O)\C=C\c1cnn(C\C=C\c2ccccc2)c1
+P102785,L12,ubiquitin specific protease inhibitor,CBK303906,DO8145380,ML-323,CC1=CN=C(C2=C(C(C)C)C=CC=C2)N=C1NCC3=CC=C(N4N=NC=C4)C=C3
+P102785,L13,phospholipase inhibitor,CBK308283,DO8145333,ML 298 hydrochloride,O=C(NCCN2CCC(C(NCN3C4=CC(F)=CC=C4)=O)3CC2)C1=CC=C(F)C(F)=C1
+P102785,L15,JNK inhibitor,CBK290309,DO8145319,SU 3327,NC2=NN=C(S2)SC1=NC=C([N+]([O-])=O)S1
+P102785,L16,phosphoinositide dependent kinase inhibitor,CBK293865,DO8145322,GSK 2334470,C[C@H]1N(C3=NC(NC)=NC(C4=CC(NN=C5N)=C5C=C4)=C3)C[C@@H]([C@](NC2CCCCC2)=O)CC1
+P102785,L17,norepinephrine reuptake inhibitor|serotonin–norepinephrine reuptake inhibitor (SNRI)|tricyclic antidepressant,CBK200712,DO8145386,Dosulepin hydrochloride,CN(C)CC\C=C1/c2ccccc2CSc2ccccc12
+P102785,L18,beta-catenin inhibitor,CBK007461,DO8145318,PNU 74654,O=C(N/N=C/C2=CC=C(C)O2)C1=C(OC3=CC=CC=C3)C=CC=C1
+P102785,L19,mTOR inhibitor,CBK278090,DO8145374,Vistusertib,CNC(=O)c1cccc(c1)-c1ccc2c(nc(nc2n1)N1CCOC[C@@H]1C)N1CCOC[C@@H]1C
+P102785,L21,LXR agonist,CBK024768,DO8145313,T 0901317,O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1
+P102785,L22,CDC inhibitor,CBK308753,DO8145368,KH-CB19,O=C(C(N1C)=C(/C(C#N)=C\N)C2=C1C(Cl)=C(Cl)C=C2)OCC
+P102785,L23,bromodomain inhibitor,CBK278077,DO8145326,PFI 1,COc1ccccc1S(=O)(=O)Nc1ccc2NC(=O)N(C)Cc2c1
+P102785,L24,AMPK inhibitor,CBK293882,DO8145337,WZ 4003,CCC(=O)Nc1cccc(Oc2nc(Nc3ccc(cc3OC)N3CCN(C)CC3)ncc2Cl)c1
+P102785,M02,mTOR inhibitor,CBK041801,DO8145358,Rapamycin,O=C([C@@]1(O)[C@@H](CC[C@@H](C[C@@H](/C(C)=C/C=C/C=C/[C@H](C[C@@H](C)C([C@@H]([C@@H](/C(C)=C/[C@H]2C)O)OC)=O)C)OC)O1)C)C(N3CCCC[C@H]3C(O[C@@H](CC2=O)[C@@H](C[C@H]4C[C@H]([C@H](O)CC4)OC)C)=O)=O
+P102785,M04,MAP kinase inhibitor,CBK290347,DO8145320,FR 180204,NC1=NNC2=C1C=C(C3=C(C=CC=C5)N5N=C3C4=CC=CC=C4)N=N2
+P102785,M06,hypoxia inducible factor inhibitor,CBK278104,DO8145327,IOX 2,OC(=O)CNC(=O)c1c(O)c2ccccc2n(Cc2ccccc2)c1=O
+P102785,M07,CDC inhibitor,CBK308753,DO8145368,KH-CB19,O=C(C(N1C)=C(/C(C#N)=C\N)C2=C1C(Cl)=C(Cl)C=C2)OCC
+P102785,M08,BCL inhibitor,CBK290476,DO8145346,ABT 737,CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(cc1[N+]([O-])=O)S(=O)(=O)NC(=O)c1ccc(cc1)N1CCN(Cc2ccccc2-c2ccc(Cl)cc2)CC1
+P102785,M10,CHK inhibitor,CBK277953,DO8145323,PF 477736,O=C([C@H](N)C4CCCCC4)NC1=CC3=C(C(C=NNC3=O)=C(C5=CN(C)N=C5)N2)C2=C1
+P102785,M11,hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,CBK288272,DO8145389,SU11274,CN(c1cccc(Cl)c1)S(=O)(=O)c1ccc2NC(=O)\C(=C/c3[nH]c(C)c(C(=O)N4CCN(C)CC4)c3C)c2c1
+P102785,M12,RAF inhibitor,CBK288298,DO8145328,GDC 0879,OCCN1N=C(C3=CC=NC=C3)C(C2=CC=C(/C(CC4)=N/O)C4=C2)=C1
+P102785,M14,LXR agonist,CBK050377,DO8145314,GW 3965 hydrochloride,O=C(O)Cc1cccc(OCCCN(Cc2cccc(C(F)(F)F)c2Cl)CC(c2ccccc2)c2ccccc2)c1
+P102785,M16,beta-catenin inhibitor,CBK007461,DO8145318,PNU 74654,O=C(N/N=C/C2=CC=C(C)O2)C1=C(OC3=CC=CC=C3)C=CC=C1
+P102785,M17,acetylcholine receptor antagonist,CBK289990,DO8145307,(S)-(+)-Dimethindene maleate,CC(C1=C(CCN(C)C)Cc2ccccc12)c1ccccn1
+P102785,M17,acetylcholine receptor antagonist,CBK289990,DO8145307,(S)-(+)-Dimethindene maleate,C[C@H](C3=NC=CC=C3)C2=C(CCN(C)C)CC1=CC=CC=C12
+P102785,M20,histone lysine methyltransferase inhibitor,CBK301269,DO8145335,UNC 0642,CC(N1CCC(NC2=C3C=C(OC)C(OCCCN4CCCC4)=CC3=NC(N5CCC(F)(F)CC5)=N2)CC1)C
+P102785,M21,JAK inhibitor,CBK293908,DO8145381,Filgotinib,O=C(C1CC1)NC2=NN3C(C4=CC=C(CN5CCS(CC5)(=O)=O)C=C4)=CC=CC3=N2
+P102785,M22,p38 MAPK inhibitor,CBK288297,DO8145321,VX 745,Fc1ccc(Sc2ccc3c(-c4c(Cl)cccc4Cl)c(=O)ncn3n2)c(F)c1
+P102785,M24,smoothened receptor agonist,CBK309443,DO8145330,Purmorphamine,C1CCC(CC1)n1cnc2c(Nc3ccc(cc3)N3CCOCC3)nc(Oc3cccc4ccccc34)nc12
+P102785,N01,histone lysine demethylase inhibitor,CBK308744,DO8145364,ML324,O=C(NCCCN(C)C)C1=CC=C(C2=CC(O)=C3N=CC=CC3=C2)C=C1
+P102785,N02,protein arginine N-methyltransferase inhibitor,CBK303927,DO8145365,EPZ015666,O=C(NC[C@H](O)CN1CCC(C=CC=C2)=C2C1)C3=CC(NC4COC4)=NC=N3
+P102785,N03,DYRK inhibitor,CBK303892,DO8145338,AZ 191,CN2C=C(C3=CC=NC(NC4=C(OC)C=C(N5CCN(C)CC5)C=C4)=N3)C1=CC=NC=C12
+P102785,N05,LXR agonist,CBK024768,DO8145313,T 0901317,O=S(=O)(c1ccccc1)N(CC(F)(F)F)c1ccc(C(O)(C(F)(F)F)C(F)(F)F)cc1
+P102785,N06,AMPK inhibitor,CBK293882,DO8145337,WZ 4003,CCC(=O)Nc1cccc(Oc2nc(Nc3ccc(cc3OC)N3CCN(C)CC3)ncc2Cl)c1
+P102785,N07,protein arginine N-methyltransferase inhibitor,CBK301268,DO8145341,SGC 707,O=C(NCC(=O)N1CCCC1)Nc1ccc2cnccc2c1
+P102785,N08,HMGCR inhibitor,CBK309344,DO8145362,delta-Tocotrienol,CC(C)=CCC\C(C)=C\CC\C(C)=C\CC[C@]1(C)CCc2cc(O)cc(C)c2O1
+P102785,N10,hypoxia inducible factor inhibitor,CBK278104,DO8145327,IOX 2,OC(=O)CNC(=O)c1c(O)c2ccccc2n(Cc2ccccc2)c1=O
+P102785,N11,JNK inhibitor,CBK290309,DO8145319,SU 3327,NC2=NN=C(S2)SC1=NC=C([N+]([O-])=O)S1
+P102785,N12,CHK inhibitor,CBK293853,DO8145393,MK-8776,Cn1cc(cn1)-c1cnn2c(N)c(Br)c(nc12)[C@@H]1CCCNC1
+P102785,N13,DNA inhibitor|topoisomerase inhibitor,CBK278009,DO8145371,Valrubicin,CCCCC(OCC([C@]1(O)CC2=C(C(O)=C3C(C4=C(C(C3=C2O)=O)C=CC=C4OC)=O)[C@@H](O[C@H]5C[C@H](NC(C(F)(F)F)=O)[C@H](O)[C@H](C)O5)C1)=O)=O
+P102785,N14,CDK inhibitor|FLT3 inhibitor,CBK308997,DO8145377,AMG 925,OCC(N1CC2=C(N=C(NC3=NC=C4C(N([C@H]5CC[C@H](C)CC5)C6=CN=CC=C64)=N3)C=C2)CC1)=O
+P102785,N17,histone lysine demethylase inhibitor,CBK278105,DO8145331,GSK J4,CCOC(=O)CCNc1cc(nc(n1)-c1ccccn1)N1CCc2ccccc2CC1
+P102785,N18,CDC inhibitor,CBK303976,DO8145375,XL413 (hydrochloride),ClC1=CC=C2C(C(N=C([C@@H]3CCCN3)NC4=O)=C4O2)=C1
+P102785,N19,RAF inhibitor,CBK288298,DO8145328,GDC 0879,OCCN1N=C(C3=CC=NC=C3)C(C2=CC=C(/C(CC4)=N/O)C4=C2)=C1
+P102785,N21,acetylcholine receptor antagonist,CBK011711,DO8145309,Orphenadrine Citrate,CN(C)CCOC(c1ccccc1)c1ccccc1C
+P102785,N22,mTOR inhibitor,CBK041801,DO8145358,Rapamycin,O=C([C@@]1(O)[C@@H](CC[C@@H](C[C@@H](/C(C)=C/C=C/C=C/[C@H](C[C@@H](C)C([C@@H]([C@@H](/C(C)=C/[C@H]2C)O)OC)=O)C)OC)O1)C)C(N3CCCC[C@H]3C(O[C@@H](CC2=O)[C@@H](C[C@H]4C[C@H]([C@H](O)CC4)OC)C)=O)=O
+P102785,N23,bromodomain inhibitor,CBK308765,DO8145369,CPI-0610,O=C(N)C[C@@H]1N=C(C2=CC=C(Cl)C=C2)C3=CC=CC=C3C4=C1ON=C4C
+P102785,N24,p21 activated kinase inhibitor,CBK308644,DO8145357,NVS-PAK1-1,FC1=CC2=C(C=C1)N(CC(F)F)C3=C(C=C(Cl)C=C3)C(N[C@H]4CCN(C(NC(C)C)=O)C4)=N2
+P102785,O01,ubiquitin specific protease inhibitor,CBK220243,DO8145332,P005091,CC(=O)c1cc(c(Sc2cccc(Cl)c2Cl)s1)[N+]([O-])=O
+P102785,O04,pyruvate dehydrogenase kinase inhibitor,CBK290812,DO8145390,BX-912,Brc1cnc(Nc2cccc(NC(=O)N3CCCC3)c2)nc1NCCc1c[nH]cn1
+P102785,O05,ubiquitin specific protease inhibitor,CBK303906,DO8145380,ML-323,CC1=CN=C(C2=C(C(C)C)C=CC=C2)N=C1NCC3=CC=C(N4N=NC=C4)C=C3
+P102785,O06,CDC inhibitor,CBK303976,DO8145375,XL413 (hydrochloride),ClC1=CC=C2C(C(N=C([C@@H]3CCCN3)NC4=O)=C4O2)=C1
+P102785,O07,hepatocyte growth factor receptor inhibitor|tyrosine kinase inhibitor,CBK288272,DO8145389,SU11274,CN(c1cccc(Cl)c1)S(=O)(=O)c1ccc2NC(=O)\C(=C/c3[nH]c(C)c(C(=O)N4CCN(C)CC4)c3C)c2c1
+P102785,O09,inosine monophosphate dehydrogenase inhibitor,CBK308421,DO8145344,BMS 566419,CCN1CCN(c2ccc(C(C)(C)NC(=O)c3cc4[nH]c5ccccc5c(=O)c4cc3F)cn2)CC1
+P102785,O10,antihistamine,CBK201094,DO8145308,Hydroxyzine Pamoate,OCCOCCN1CCN(CC1)C(c1ccccc1)c1ccc(Cl)cc1
+P102785,O11,histone lysine methyltransferase inhibitor,CBK301269,DO8145335,UNC 0642,CC(N1CCC(NC2=C3C=C(OC)C(OCCCN4CCCC4)=CC3=NC(N5CCC(F)(F)CC5)=N2)CC1)C
+P102785,O13,androgen receptor modulator,CBK308702,DO8145339,BMS 564929,N#CC1=CC=C(N(C(N2[C@@]3([H])[C@H](O)CC2)=O)C3=O)C(C)=C1Cl
+P102785,O15,kinesin inhibitor,CBK290553,DO8145342,Ispinesib,CC(C)[C@@H](N(CCCN)C(=O)c1ccc(C)cc1)c1nc2cc(Cl)ccc2c(=O)n1Cc1ccccc1
+P102785,O16,FGFR inhibitor,CBK308752,DO8145366,BLU9931,C=CC(NC1=CC=CC(C)=C1NC2=NC=C3C=C(C4=C(Cl)C(OC)=CC(OC)=C4Cl)C=CC3=N2)=O
+P102785,O17,Aurora kinase inhibitor,CBK288349,DO8145370,AMG 900,Cc1csc(c1)-c1nnc(Nc2ccc(Oc3ncccc3-c3ccnc(N)n3)cc2)c2ccccc12
+P102785,O18,angiogenesis inhibitor|tumor necrosis factor production inhibitor,CBK290587,DO8145359,Pomalidomide,Nc1cccc2C(=O)N(C3CCC(=O)NC3=O)C(=O)c12
+P102785,O20,glycogen synthase kinase inhibitor|lipoxygenase inhibitor,CBK290269,DO8145316,BIO,O/N=C(C1=CC=CC=C1N2)/C2=C3/C(NC4=C3C=CC(Br)=C4)=O
+P102785,O23,HDAC inhibitor,CBK303885,DO8145345,RGFP 966,Nc1cc(F)ccc1NC(=O)\C=C\c1cnn(C\C=C\c2ccccc2)c1
+P102785,P02,DYRK inhibitor,CBK303892,DO8145338,AZ 191,CN2C=C(C3=CC=NC(NC4=C(OC)C=C(N5CCN(C)CC5)C=C4)=N3)C1=CC=NC=C12
+P102785,P03,DNA inhibitor|topoisomerase inhibitor,CBK278009,DO8145371,Valrubicin,CCCCC(OCC([C@]1(O)CC2=C(C(O)=C3C(C4=C(C(C3=C2O)=O)C=CC=C4OC)=O)[C@@H](O[C@H]5C[C@H](NC(C(F)(F)F)=O)[C@H](O)[C@H](C)O5)C1)=O)=O
+P102785,P05,Bcr-Abl kinase inhibitor,CBK293888,DO8145334,GNF 5,O=C(NCCO)C1=CC(C2=NC=NC(NC3=CC=C(OC(F)(F)F)C=C3)=C2)=CC=C1
+P102785,P06,EGFR inhibitor,CBK278038,DO8145382,Neratinib,CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C
+P102785,P08,histone lysine demethylase inhibitor,CBK308744,DO8145364,ML324,O=C(NCCCN(C)C)C1=CC=C(C2=CC(O)=C3N=CC=CC3=C2)C=C1
+P102785,P09,histone lysine demethylase inhibitor,CBK278105,DO8145331,GSK J4,CCOC(=O)CCNc1cc(nc(n1)-c1ccccn1)N1CCc2ccccc2CC1
+P102785,P10,CHK inhibitor,CBK293853,DO8145393,MK-8776,Cn1cc(cn1)-c1cnn2c(N)c(Br)c(nc12)[C@@H]1CCCNC1
+P102785,P11,androgen receptor modulator,CBK308702,DO8145339,BMS 564929,N#CC1=CC=C(N(C(N2[C@@]3([H])[C@H](O)CC2)=O)C3=O)C(C)=C1Cl
+P102785,P12,androgen receptor modulator,CBK290489,DO8145360,GTx-007,CC(=O)Nc1ccc(OC[C@](C)(O)C(=O)Nc2ccc(c(c2)C(F)(F)F)[N+]([O-])=O)cc1
+P102785,P13,p21 activated kinase inhibitor,CBK308644,DO8145357,NVS-PAK1-1,FC1=CC2=C(C=C1)N(CC(F)F)C3=C(C=C(Cl)C=C3)C(N[C@H]4CCN(C(NC(C)C)=O)C4)=N2
+P102785,P15,BCL inhibitor,CBK290476,DO8145346,ABT 737,CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(cc1[N+]([O-])=O)S(=O)(=O)NC(=O)c1ccc(cc1)N1CCN(Cc2ccccc2-c2ccc(Cl)cc2)CC1
+P102785,P16,acetylcholine receptor antagonist,CBK289990,DO8145307,(S)-(+)-Dimethindene maleate,CC(C1=C(CCN(C)C)Cc2ccccc12)c1ccccn1
+P102785,P16,acetylcholine receptor antagonist,CBK289990,DO8145307,(S)-(+)-Dimethindene maleate,C[C@H](C3=NC=CC=C3)C2=C(CCN(C)C)CC1=CC=CC=C12
+P102785,P18,hepatocyte growth factor receptor inhibitor,CBK288271,DO8145340,SGX 523,Cn1cc(cn1)-c1ccc2nnc(Sc3ccc4ncccc4c3)n2n1
+P102785,P19,IGF-1 inhibitor,CBK290845,DO8145383,NVP-AEW541,Cc1ccccc1-n1c(Cn2ncc3c(N)ncnc23)nc2cccc(C)c2c1=O
+P102785,P21,phosphoinositide dependent kinase inhibitor,CBK309007,DO8145378,APY0201,CC1=CC(/C=N/NC2=NC3=CC(C4=CC=NC=C4)=NN3C(N5CCOCC5)=C2)=CC=C1
+P102785,P22,protein tyrosine kinase inhibitor,CBK303958,DO8145356,SHP099 (hydrochloride),NC1=NC(N2CCC(C)(N)CC2)=CN=C1C3=CC=CC(Cl)=C3Cl
+P102785,P23,MAP kinase inhibitor|MEK inhibitor,CBK290225,DO8145315,PD 198306,Cc1cc(I)ccc1Nc1c(C(=O)NOCC2CC2)cc(F)c(F)c1F
+P102785,P24,histone lysine methyltransferase inhibitor,CBK301244,DO8145336,A 366,COC1=C(OCCCN4CCCC4)C=C(N=C(N)C32CCC3)C2=C1

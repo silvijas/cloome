@@ -16,11 +16,13 @@ def morgan_from_smiles(smiles, radius=3, nbits=1024, chiral=True):
 
 
 if __name__ == '__main__':
-    indir = "<path-to-your-folder>"
-    index = "<path-to-your-folder>/cellpainting-index.csv"
-    index = os.path.join(indir, index)
-
-    outdir = "/publicwork/sanchez/data/"
+    #indir = "<path-to-your-folder>"
+    #index = "<path-to-your-folder>/cellpainting-index.csv"
+    #index = os.path.join(indir, index)
+    index = '/share/data/analyses/silvija/RT/data_cloome/our_images/metadata_try_v3.csv'
+    
+    #outdir = "/publicwork/sanchez/data/"
+    outdir = '/share/data/analyses/silvija/RT/data_cloome/our_images/'
     outfile_hdf = "morgan_chiral_fps.hdf5"
     outfile_hdf = os.path.join(outdir, outfile_hdf)
 
