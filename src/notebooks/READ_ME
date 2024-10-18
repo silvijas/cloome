@@ -1,0 +1,6 @@
+The following zeroshot_phenotype-*.ipynb contain feature extraction of images and molecular structure. 
+    They differ in which images they use for extract the features.
+    1. ALLdata : full images
+    2. All500p : full images that we resized to 500x500 resolution using box mean averaging
+    3. CROPsingle       : crops of 600x600 taken in the middle of full resolution image (position 2-1 in the 4x4 grid)
+    4. CROPsingle_top10 : again crops 600x600 but now only top 10 compounds (from full resolution images) + dmso are considered

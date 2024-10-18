@@ -1,0 +1,16 @@
+.py files are original from CLOOME repository [https://github.com/ml-jku/cloome]
+
+Notebooks [.py] have been created by me.
+    - dowloading_images : Based on metadata file copy images from database to chosen directory.
+    - preprocessing_data : Creates metadata file for images from chosen directory and also added information about compounds.
+            Format name of images :: (?P<plate>\w+)_(?P<WELL>\w\d+)_s(?P<SITE>\d+)_x\d+_y\d+_Fluorescence_(?P<WAVE>\d+)_nm_Ex
+    - preprocessing_images : As original file with slight modifications in order to work with our data.
+            Illumination correction (0.0028% of pixels) + scalling image from sixteen to eight bits
+    - preprocessing_molecules : Creates metadata file for compounds of images, in hdf5 format. Where unique identifier is SAMPLE_KEY = PLATE_ID + WELL_ID + SITE_ID
+        + preprocessing_molecules_CROP : Also creates a metadata file, but as now there is also additional level of replicates - SITE_ID, every image is divided on addition 16 crops.
+                When additional layer of replicates was included, it was unsucessful to extract features.
+    - rescalling_image : Block mean downsizing of an image, from 2500x2500 to 500x500.
+    - spliting_image : Croping image 2500x2500 into 625x625 images, and generating a metadata for it by introducing additional level of replicates.
+        + spliting_image_singles : As the idea was not working for all 16 replicates (due to the problematic code in feature extraction that could not deal with new unique identifier)
+                this notebook creates only 1 (instead of 16) crops from original image, and it is the one on position 2-1 (if we take a look at the picture as 4x4 grid).
+    - metadata_images : Creating a metadata file for our images, in a way that is required for CLOOME
